@@ -1,3 +1,3 @@
 # dlptesting
-my ssn is 123-45-9876
+my social security number is 123-45-9876
 
